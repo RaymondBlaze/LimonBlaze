@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**LimonBlaze/LimonBlaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **LimonBlaze**.
 
-Here are some ideas to get you started:
+- 🏫 I’m currently studying for a **B.Eng.** in **Data Science**
+- 🌱 I’m currently learning: Java / Python
+- 🔭 I’m currently working on: Minecraft Modding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **My Skills**
+
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Java-cc6600?style=flat-square&logo=Java&logoColor=fff)
+
+📚 **Some Stats**
+
+![](https://github.com/LimonBlaze/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/LimonBlaze/github-stats/blob/master/generated/languages.svg)
