@@ -1,17 +1,17 @@
-### Hi there 👋
+### 🍋 Hi there 👋
 
-I’m **LimonBlaze**.
+#### Intro
 
-- 🏫 I’m currently studying for a **B.Eng.** in **Data Science**
-- 🌱 I’m currently learning: Java / Python
-- 🔭 I’m currently working on: Minecraft Modding
+* I’m **LimonBlaze**.
+* I'm **Chinese**.
+* I major in **Data Science**.
+* I make **Minecraft Mods** for fun.
 
-🌟 **My Skills**
-
+#### Language
+![](https://img.shields.io/badge/-Java-cc6600?style=flat-square&logo=OpenJDK&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-d1b514?style=flat-square&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-C++-659ad3?style=flat-square&logo=Cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Java-cc6600?style=flat-square&logo=Java&logoColor=fff)
 
-📚 **Some Stats**
-
-![](https://github.com/LimonBlaze/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/LimonBlaze/github-stats/blob/master/generated/languages.svg)
+#### Stats
+![LimonBlaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimonBlaze&show_icons=true&text_color=ff6c00&title_color=ff6c00&icon_color=ff6c00)
